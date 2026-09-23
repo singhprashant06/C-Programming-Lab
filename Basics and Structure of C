@@ -4,7 +4,7 @@
 **Code:-** instruction written by the programmer  
 **Programme:-** a complete set of instruction/code that perform a task  
 *Code is input, and the result produced by the program/code is output*  
-**Compiler:- ** who converts the code/program to output example of compiler GCC, clang, MSVC (Microsoft C/C++ compiler)  
+**Compiler:- ** who converts the code/program to output example of compiler GCC, clang, MSVC (Microsoft C/C++ compiler)   
 **Code editor:- **where the programmer, write the code  
 
 2) Structure of C language
