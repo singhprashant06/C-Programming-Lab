@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int age = 23;
+    int age = 23;  // variabletype variable name = value
     int weight = 60;
     char name[] = "Prashant Singh";
 
