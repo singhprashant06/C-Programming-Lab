@@ -27,5 +27,5 @@ To learn programming fundamentals, develop problem-solving skills, and build a s
 
 ## Author
 
-Ujjawal Singh
+Prashant Kumar Singh
 B.Tech Student
